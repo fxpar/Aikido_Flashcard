@@ -20,6 +20,12 @@ for (let i = 0; i < arr.length; i++) {
 	</li>`;
 }
 
+sct += `<li class="slide">
+		<div style="margin-top:5rem"><a href="AikidoQuizSimpleRandom.html" class="btn">Rejouer</a></div>
+		<!--<div style="margin-top:1rem"><a href="index.html" class="btn">Changer de quiz</a></div>-->
+	</li>`;
+
+
 var sc = document.getElementById("slides-container");
 sc.innerHTML = sct;
 
