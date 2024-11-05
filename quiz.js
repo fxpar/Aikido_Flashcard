@@ -14,7 +14,7 @@ for (let i = 0; i < arr.length; i++) {
 	sct += `<li class="slide">
 		<video src="assets/`+questions[arr[i]-1][0]+`" class="myvideo" alt="..." controls ></video>
 		<p>&nbsp;</p>
-		  <details><summary>Quelle est cette technique ?</summary>
+		  <details><summary class="btn">Quelle est cette technique ?</summary>
 			  <h1>`+questions[arr[i]-1][1]+`</h1>
 		  </details>
 	</li>`;
