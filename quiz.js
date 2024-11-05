@@ -21,6 +21,6 @@ for (let i = 0; i < arr.length; i++) {
 }
 
 var sc = document.getElementById("slides-container");
-sc.innerHTML = sct;
+//sc.innerHTML = sct;
 
   
