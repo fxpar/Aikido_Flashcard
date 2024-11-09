@@ -1,7 +1,7 @@
 
 console.log(questions.length);
 var arr = [];
-while(arr.length < 5){
+while(arr.length < nb){
     var r = Math.floor(Math.random() * questions.length) + 1;
     if(arr.indexOf(r) === -1) arr.push(r);
 }
@@ -21,8 +21,7 @@ for (let i = 0; i < arr.length; i++) {
 }
 
 sct += `<li class="slide">
-		<div style="margin-top:5rem"><a href="AikidoQuizSimpleRandom.html" class="btn">Rejouer</a></div>
-		<!--<div style="margin-top:1rem"><a href="index.html" class="btn">Changer de quiz</a></div>-->
+		<div style="margin-top:1rem"><a href="index.html" class="btn">Rejouer</a></div>
 	</li>`;
 
 
