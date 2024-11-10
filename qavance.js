@@ -56,8 +56,7 @@ const questions = [
 	['Ryote_dori-34.mp4', ' Ryote dori 34'],
 	['Ryote_dori-35.mp4', 'Ryote dori 35'],
 	['Ryote_dori-36.mp4', 'Ryote dori 36'],
-	['01-Katate dori ikkyo omote waza.mp4', 'Katate dori ikkyo omote waza'],
-	['01-Katate_dori_ikkyo_omote_waza.mp4', 'Katate dori ikkyo omote waza'],
+['01-Katate_dori_ikkyo_omote_waza.mp4', 'Katate dori ikkyo omote waza'],
 ['02-Katate_dori_ikkyo_ura_waza.mp4', 'Katate dori ikkyo ura waza'],
 ['03-Katate_Dori_Nikyo_omote_waza_.mp4', 'Katate Dori Nikyo omote waza '],
 ['04-Katate_Dori_Nikyo_ura_waza.mp4', 'Katate Dori Nikyo ura waza'],
@@ -310,7 +309,19 @@ const questions = [
 ['15-Sode_Guchi_Dori_Kokyu_nage_v2.mp4', 'Sode Guchi Dori Kokyu nage v2'],
 ['16-Sode_Guchi_Dori_Kokyu_nage_v3.mp4', 'Sode Guchi Dori Kokyu nage v3'],
 ['17-Sode_Guchi_Dori_Kokyu_nage_v4.mp4', 'Sode Guchi Dori Kokyu nage v4'],
-['18-Sode_Guchi_Dori_Kenka_waza.mp4', 'Sode Guchi Dori Kenka waza']
-
+['18-Sode_Guchi_Dori_Kenka_waza.mp4', 'Sode Guchi Dori Kenka waza'],
+['13-Taichi_Dori_01.mp4', 'Taichi Dori_01 voir profs'],
+['13-Taichi_Dori_02.mp4', 'Taichi Dori_02 voir profs'],
+['13-Taichi_Dori_03.mp4', 'Taichi Dori_03 voir profs'],
+['13-Taichi_Dori_04.mp4', 'Taichi Dori_04 voir profs'],
+['13-Taichi_Dori_05.mp4', 'Taichi Dori_05 voir profs'],
+['13-Taichi_Dori_06.mp4', 'Taichi Dori_06 voir profs'],
+['13-Taichi_Dori_07.mp4', 'Taichi Dori_07 voir profs'],
+['13-Taichi_Dori_08.mp4', 'Taichi Dori_08 voir profs'],
+['13-Taichi_Dori_09.mp4', 'Taichi Dori_09 voir profs'],
+['13-Taichi_Dori_10.mp4', 'Taichi Dori_10 voir profs'],
+['13-Taichi_Dori_11.mp4', 'Taichi Dori_11 voir profs'],
+['13-Taichi_Dori_12.mp4', 'Taichi Dori_12 voir profs'],
+['13-Taichi_Dori_13.mp4', 'Taichi Dori_13 voir profs']
 
 ]
