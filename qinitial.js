@@ -43,5 +43,13 @@ const questions = [
 ['01-Sode_Guchi_Dori_Ikkyo_omote_waza.mp4', 'Sode Guchi Dori'],
 ['02-Sode_Guchi_Dori_Ikkyo_ura_waza.mp4', 'Sode Guchi Dori'],
 ['03-Sode_Guchi_Dori_Nikyo.mp4', 'Sode Guchi Dori'],
+['01-Yokomen_Uchi_Ikkyo_omote_waza.mp4', 'Yokomen Uchi'],
+['02-Yokomen_Uchi_Ikkyo_ura_waza.mp4', 'Yokomen Uchi'],
+['03-Yokomen_Uchi_Ikkyo_ura_waza_(ki_no_nagare).mp4', 'Yokomen Uchi'],
+['04-Yokomen_Uchi_Nikyo_omote_waza.mp4', 'Yokomen Uch'],
+['05-Yokomen_Uchi_Nikkyo_ura_waza.mp4', 'Yokomen Uchi'],
+['01-Muna_Dori_Ikkyo_omote_waza.mp4', 'Muna Dori Ikkyo omote waza'],
+['02-Muna_Dori_Ikkyo_ura_waza.mp4', 'Muna Dori Ikkyo ura waza'],
+['03-Muna_Dori_Nikyo.mp4', 'Muna Dori Nikyo'],
 ['01-Ni_Nin_Dori_Kokyu_nage.mp4', 'Ni Nin Dori']
 ]
