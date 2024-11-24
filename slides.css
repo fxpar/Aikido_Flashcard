@@ -105,6 +105,17 @@
 	
 }
 
+svg {
+	color:white;
+	fill:white;
+}
+.myhira {
+	color:white;
+	fill:white;
+	width:60%;
+	max-width:500px;
+}
+
 /* Cayman */
 
 .btn {
