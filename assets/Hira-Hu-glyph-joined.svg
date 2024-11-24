@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xml:lang="ja" version="1.1"
+     width="256" height="256" viewBox="0 0 256 256"
+     xmlns="http://www.w3.org/2000/svg">
+<title>ふ（連続）</title>
+
+<desc>1画目が連続した平仮名の「ふ」</desc>
+
+<metadata>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		 xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<rdf:Description rdf:about="">
+		<dc:title xml:lang="ja">ふ（連続）</dc:title>
+		<dc:creator rdf:resource="https://meta.wikimedia.org/?curid=10484470"/>
+		<dc:subject rdf:datatype="http://ndl.go.jp/dcndl/terms/NIISubject">芸術</dc:subject>
+		<dc:description xml:lang="ja">1画目が連続した平仮名の「ふ」</dc:description>
+		<dc:date rdf:datatype="http://www.w3.org/2001/XMLSchemadate">2019-08-24</dc:date>
+		<dc:type rdf:datatype="http://purl.org/dc/terms/DCMIType">StillImage</dc:type>
+		<dc:format rdf:datatype="http://purl.org/dc/terms/IMT">image/svg+xml</dc:format>
+		<dc:source rdf:resource="https://upload.wikimedia.org/wikipedia/ja/e/e0/%E3%81%B50002.png"/>
+		<dc:language rdf:datatype="http://purl.org/dc/terms/ISO639-2">jpn</dc:language>
+		<dc:rights>© 2019, B̅ &gt;cmplstofB&lt;</dc:rights>
+		<dc:rights rdf:resource="http://www.wtfpl.net/about/"/>
+	</rdf:Description>
+</rdf:RDF>
+</metadata>
+
+<g fill="none" stroke="currentColor" stroke-width="18"
+  transform="translate(0,-866.51965)">
+<path
+  d="m 103.42571,895.58142 c 0,0 72.75173,34.64428 52.56761,45.72954 -18.79052,10.3199 -40.04774,12.13811 -47.43906,29.91653 -7.60037,18.28126 72.60811,73.69441 43.16527,106.41741 -19.17626,21.3127 -85.048411,-12.8214 -85.048411,-12.8214"
+/>
+<path
+  d="m 14.958264,1078.0722 c 0,0 23.45112,-15.1862 34.617696,-23.9332 11.429301,-8.9528 32.90818,-29.0617 32.90818,-29.0617"
+/>
+<path
+  d="m 196.59432,996.87023 c 0,0 16.01846,19.58287 26.92488,38.46407 8.43975,14.6109 19.65943,42.3106 19.65943,42.3106"
+/>
+</g>
+</svg>

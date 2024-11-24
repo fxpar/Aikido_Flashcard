@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420"
+   height="420"
+   viewBox="0 0 111.125 111.12501"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Hentaigana letter E-1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="345.76714"
+     inkscape:cy="230.41447"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-185.87499)">
+    <path
+       d="m 29.517662,206.45267 q 9.301728,6.71791 9.301728,11.78219 0,6.40785 -14.26265,15.08947 l -0.206705,0.41341 q 0,0.82682 4.340807,5.78774 0.41341,2.1704 0.41341,2.89387 -1.033526,8.88832 -1.446936,18.81016 0.206705,1.44694 0.206705,4.34081 v 0.62011 l 0.206705,1.03353 h 0.206705 q 0.206706,0 6.614563,-11.16207 4.237454,-7.13133 14.882766,-18.19005 15.812938,-14.46936 29.352121,-14.46936 7.648088,0 7.648088,7.64809 0,9.81849 -23.150969,36.79351 v 0.41341 h 0.206705 q 9.095023,-1.24023 14.055945,-1.24023 h 0.41341 q 11.575485,0.72346 11.575485,4.3408 0.206705,0 0.206705,0.62012 0,2.27375 -2.893871,2.27375 -7.234678,-2.27375 -13.229125,-2.27375 -6.717915,0 -14.469356,1.86034 -1.136878,0 -1.24023,-2.06705 v -0.41341 q 0,-2.99722 2.893871,-5.16763 18.603457,-24.49455 18.603457,-35.34656 v -0.41341 q 0,-3.30729 -4.547512,-3.30729 -11.265427,0 -28.11189,18.81017 -13.435831,17.15652 -15.916291,28.11189 -1.136878,7.23468 -4.134102,7.23468 -4.547512,0 -4.547512,-16.74312 0,-5.27098 1.860346,-22.94426 0,-3.61734 -3.100576,-7.23468 0,-0.2067 -0.206705,-0.62011 0,-0.93018 7.648088,-7.64809 3.513986,-4.65086 3.513986,-8.0615 0,-5.37433 -4.754217,-10.33525 0.930173,-1.24023 2.067051,-1.24023 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.833px;line-height:100%;font-family:'BabelStone Han';-inkscape-font-specification:'BabelStone Han';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#FFFFFF;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path9" />
+  </g>
+</svg>
