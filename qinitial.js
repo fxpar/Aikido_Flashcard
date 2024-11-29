@@ -1,5 +1,8 @@
 const nb = 5;
 const questions = [
+	[ 'Hanmi_hantachi_waza.png', 'Hanmi hantachi waza'],
+	[ 'Suwari_waza.png', 'Suwari waza'],
+	[ 'Tachi_waza.png', 'Tachi waza'],
 	[ '01-Ai_hanmi_katatedori_ikkyo_omote_waza.mp4', 'Ai hanmi katate dori'],
 	[ '02-Ai_hanmi_katatedori_ikkyo_ura_waza.mp4', 'Ai hanmi katate dori'],
 	[ '03-Ai_hanmi_katatedori_nikyo_omote_waza.mp4', 'Ai hanmi katate dori'],

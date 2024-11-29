@@ -11,8 +11,17 @@ var sct = "";
 for (let i = 0; i < arr.length; i++) {
 	console.log(i);
 	console.log(questions[arr[i]-1][1]);
+	// check extension
+	const myAsset = questions[arr[i]-1][0];
+	var myAssetHtml='';
+	const ext = myAsset.substr(myAsset.length -3);
+	if (ext == 'mp4') {
+		myAssetHtml = '<video src="assets/'+myAsset+'" class="myvideo" alt="..." controls ></video>';
+	}else{
+		myAssetHtml ='<img src="assets/'+myAsset+'" class="myvideo" alt="..." controls ></img>';
+	}
 	sct += `<li class="slide">
-		<video src="assets/`+questions[arr[i]-1][0]+`" class="myvideo" alt="..." controls ></video>
+	`+myAssetHtml+`
 		<p>&nbsp;</p>
 		  <details><summary class="btn">Quelle est cette situation de départ ?</summary>
 			  <h1>`+questions[arr[i]-1][1]+`</h1>
